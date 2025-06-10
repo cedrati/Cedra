@@ -95,6 +95,8 @@ This mirrors quantum mechanics where discrete time evolution (Schrödinger equat
 This suggests that discrete time might be fundamental to reality's structure, where each temporal quantum organizes chaos according to geometric principles encoded in constants like Cedra. The dual nature of chaos/order emerges naturally from temporal discretization itself.
 
 
+
+
 | Expression | Description |
 |-----------|-------------|
 | `Cedra = √3 + √2 + √(1/2) - 2`| Definition of Cedra |
