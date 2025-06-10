@@ -55,3 +55,6 @@ Harmony: Underlying geometric patterns with period-47 cycles
 Balance: "Perfect random but well-structured" behavior
 
 This duality makes it valuable for studying complex systems where deterministic rules produce seemingly random but fundamentally ordered behavior.
+
+Olivier Cedrati 2025
+
