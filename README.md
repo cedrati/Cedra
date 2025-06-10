@@ -97,4 +97,5 @@ This suggests that discrete time might be fundamental to reality's structure, wh
 
 ---
 
-*Olivier Cedrati, 2025*
+*The Cedra Constant License (CC BY-NC 4.0)
+Copyright (c) 2025 Olivier Cedrati*
