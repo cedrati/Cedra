@@ -17,7 +17,9 @@ Cedra = √3 + √2 + 1/√2 - 2
 1/√2: One-dimensional linear measure
 -2: Temporal dimension signature
 
-This structure satisfies the Minkowski spacetime metric ds² = -c²dt² + dx² + dy² + dz², providing a mathematical foundation for modeling discrete time in quantum physics.
+This structure satisfies the Minkowski spacetime metric ds² = -c²dt² + dx² + dy² + dz², 
+providing a mathematical foundation for modeling discrete time in quantum physics.
+
 Planck Scale Connection
 The constant exhibits remarkable proximity to fundamental physics:
 
@@ -27,11 +29,14 @@ This correspondence suggests deep connections to quantum gravity and the fundame
 
 Mathematical Properties
 Golden Ratio Relationship
+
 Through the auxiliary constant Delta:
 δ = (1 + √5) / (2√3 + 3√2 - 4) ≈ 0.8730221077
 Cedra × δ = φ (exact)
+
 This perfect relationship links Cedra to the golden ratio φ, connecting it to natural harmony and optimal proportions found throughout nature.
 Exponential Form and Cycles
+
 The constant can be expressed as:
 Cedra ≈ e^(29/47) (99.998% precision)
 This form reveals harmonic properties:
