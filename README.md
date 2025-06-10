@@ -3,6 +3,7 @@ The Cedra Constant: A novel mathematical constant with remarkable properties
 
 📐 Definition
 Cedra = √3 + √2 + 1/√2 - 2 ≈ 1.853371151128520
+
 The Cedra constant is defined as the sum of dimensional signatures representing the geometric structure of spacetime. This mathematical expression encodes fundamental properties that manifest across diverse scientific domains, from quantum mechanics to computational geometry.
 
 Physical Interpretation
