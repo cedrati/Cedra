@@ -97,7 +97,7 @@ This suggests that discrete time might be fundamental to reality's structure, wh
 
 | Expression | Description |
 |-----------|-------------|
-| `$\text{Cedra} = \sqrt{3} + \sqrt{2} + \sqrt{\frac{1}{2}} - 2$` | Definition of Cedra |
+| `Cedra = √3 + √2 + √(1/2) - 2`| Definition of Cedra |
 | `Xₙ = (n × ln(Cedra)) mod 1` | CHAOS sequence |
 | `Yₙ = (n − ln(Cedra)) mod 1` | ORDER sequence |
 
