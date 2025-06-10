@@ -1,0 +1,34 @@
+# Cedra Quick Start
+
+## The Duality in 30 Seconds
+
+### **Base Constant:**
+$\text{Cedra} = \sqrt{3} + \sqrt{2} + \sqrt{\frac{1}{2}} - 2 \approx 1.853$
+$\ln(\text{Cedra}) \approx 0.617$
+
+---
+
+### **CHAOS Formula:**
+$X_n = (n \times \ln(\text{Cedra})) \bmod 1$
+
+**Sequence jumps:**
+- **+0.617** (= ln(Cedra))
+- **-0.383** (= -(1 - ln(Cedra)))
+
+---
+
+### **ORDER Formula:**
+$Y_n = (n - \ln(\text{Cedra})) \bmod 1$
+
+**Constant result:**
+- **0.383** (= 1 - ln(Cedra))
+
+---
+
+## **The Magic:**
+
+$\ln(\text{Cedra}) + (1 - \ln(\text{Cedra})) = 1$
+$0.617 + 0.383 = 1$
+$\text{CHAOS} + \text{ORDER} = \text{UNITY}$
+
+**Bottom line:** The constant from the static formula is exactly the negative jump amplitude from the dynamic formula.
