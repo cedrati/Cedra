@@ -1,6 +1,6 @@
 # Cedra
 
-*The Cedra Constant: A novel mathematical constant with remarkable properties*
+*Cedra: A Geometric Constant Encoding Discrete Time and Structured Chaos*
 
 $\text{Cedra} = \sqrt{3} + \sqrt{2} + \sqrt{\frac{1}{2}} - 2$
 
