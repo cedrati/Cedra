@@ -33,8 +33,6 @@ The Cedra constant is defined as the sum of dimensional signatures representing 
 
 The Cedra constant represents the quantum of spacetime with inherent geometric nature:
 
-$\text{Cedra} = \sqrt{3} + \sqrt{2} + \sqrt{\frac{1}{2}} - 2$
-
 **$\text{3D} + \text{2D} + \text{1D} - t$**
 
 - **√3**: Three-dimensional spatial volume
