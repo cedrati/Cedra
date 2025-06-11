@@ -132,7 +132,7 @@ print(f"Phi (Cedra × Delta) = {phi}")
 print(f"Golden Ratio = {golden_ratio}")
 print(f"Connection precision: {abs(phi - golden_ratio):.10f}")
 
-# CHAOS Formula: Xn = (n × ln(Cedra)) mod 1
+# DETERMINISTIC CHAOS Formula: Xn = (n × ln(Cedra)) mod 1
 def chaos_sequence(n):
     return (n * ln_cedra) % 1
 
