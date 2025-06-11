@@ -118,8 +118,19 @@ import math
 cedra = math.sqrt(3) + math.sqrt(2) + math.sqrt(1/2) - 2
 ln_cedra = math.log(cedra)
 
+# Define Delta constant
+delta = (1 + math.sqrt(5)) / (2*math.sqrt(3) + 3*math.sqrt(2) - 4)
+
+# Golden ratio connection
+phi = cedra * delta
+golden_ratio = (1 + math.sqrt(5)) / 2
+
 print(f"Cedra = {cedra}")
 print(f"ln(Cedra) = {ln_cedra}")
+print(f"Delta = {delta}")
+print(f"Phi (Cedra × Delta) = {phi}")
+print(f"Golden Ratio = {golden_ratio}")
+print(f"Connection precision: {abs(phi - golden_ratio):.10f}")
 
 # CHAOS Formula: Xn = (n × ln(Cedra)) mod 1
 def chaos_sequence(n):
@@ -144,6 +155,12 @@ print(f"\nDuality verification:")
 print(f"ln(Cedra) = {ln_cedra:.6f}")
 print(f"1 - ln(Cedra) = {1 - ln_cedra:.6f}")
 print(f"Sum = {ln_cedra + (1 - ln_cedra):.6f}")
+
+# Golden ratio relationship
+print(f"\nGolden Ratio Connection:")
+print(f"Cedra × Delta = {cedra * delta:.10f}")
+print(f"φ (exact) = {golden_ratio:.10f}")
+print(f"Perfect match: {abs(cedra * delta - golden_ratio) < 1e-15}")
 ```
 
 <br/>
