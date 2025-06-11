@@ -1,6 +1,6 @@
 # Cedra
 
-*A Geometric Constant Encoding Discrete Time and Structured Chaos.*
+*A Geometric Constant Linking Discrete Time and Structured Chaos.*
 
 <br/>
 
