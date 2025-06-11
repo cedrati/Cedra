@@ -30,7 +30,7 @@ The Cedra constant represents the quantum of spacetime with inherent geometric n
 
 $\text{Cedra} = \sqrt{3} + \sqrt{2} + \sqrt{\frac{1}{2}} - 2$
 
-$\text{3D} + \text{2D} + \text{1D} - t$
+**$\text{3D} + \text{2D} + \text{1D} - t$**
 
 - **√3**: Three-dimensional spatial volume
 - **√2**: Two-dimensional surface geometry  
@@ -39,7 +39,9 @@ $\text{3D} + \text{2D} + \text{1D} - t$
 
 This structure satisfies the Minkowski spacetime metric $ds² = -c²dt² + dx² + dy² + dz²$, providing a mathematical foundation for modeling discrete time in quantum physics.
 
-### Planck Scale Connection
+<br/>
+
+**Planck Scale Connection**
 
 The constant exhibits remarkable proximity to fundamental physics:
 
@@ -51,7 +53,7 @@ This correspondence suggests deep connections to quantum gravity and the fundame
 
 ## ⚡ Mathematical Properties
 
-### Golden Ratio Relationship
+**Golden Ratio Relationship**
 
 Through the auxiliary constant Delta:
 
@@ -61,7 +63,9 @@ $\text{Cedra} \times \delta = \varphi \quad \text{(exact)}$
 
 This perfect relationship links Cedra to the golden ratio φ, connecting it to natural harmony and optimal proportions found throughout nature.
 
-### Exponential Form and Cycles
+<br/>
+
+**Exponential Form and Cycles**
 
 The constant can be expressed as:
 
