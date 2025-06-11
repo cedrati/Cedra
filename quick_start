@@ -1,3 +1,22 @@
+"""
+Cedra Constant - Quick Start Demo
+Author: Olivier Cedrati
+Year: 2025
+Description: Demonstration of the Cedra constant properties including deterministic chaos 
+             sequences, golden ratio connections, and discrete spacetime geometry.
+             
+Cedra = √3 + √2 + √(1/2) - 2 ≈ 1.853371151128520
+
+Key Features:
+- Deterministic chaos sequence with perfect uniform distribution
+- Exact golden ratio relationship via auxiliary constant Delta
+- Duality between structured chaos and pure order
+- Applications in quantum Monte Carlo, discrete time systems, and 3+1D spacetime modeling
+
+License: CC BY-NC 4.0
+Repository: https://github.com/cedrati/Cedra
+"""
+
 import math
 
 # Define Cedra constant
@@ -14,7 +33,7 @@ golden_ratio = (1 + math.sqrt(5)) / 2
 print(f"Cedra = {cedra}")
 print(f"ln(Cedra) = {ln_cedra}")
 print(f"Delta = {delta}")
-print(f"Phi (Cedra × Delta) = {phi}")
+print(f"Phi (Cedra * Delta) = {phi}")
 print(f"Golden Ratio = {golden_ratio}")
 print(f"Connection precision: {abs(phi - golden_ratio):.10f}")
 
@@ -44,6 +63,6 @@ print(f"Sum = {ln_cedra + (1 - ln_cedra):.6f}")
 
 # Golden ratio relationship
 print(f"\nGolden Ratio Connection:")
-print(f"Cedra × Delta = {cedra * delta:.10f}")
+print(f"Cedra * Delta = {cedra * delta:.10f}")
 print(f"φ (exact) = {golden_ratio:.10f}")
 print(f"Perfect match: {abs(cedra * delta - golden_ratio) < 1e-15}")
