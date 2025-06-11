@@ -109,6 +109,45 @@ This suggests that discrete time might be fundamental to reality's structure, wh
 
 <br/>
 
+## 🚀 Quick Start
+
+```python
+import math
+
+# Define Cedra constant
+cedra = math.sqrt(3) + math.sqrt(2) + math.sqrt(1/2) - 2
+ln_cedra = math.log(cedra)
+
+print(f"Cedra = {cedra}")
+print(f"ln(Cedra) = {ln_cedra}")
+
+# CHAOS Formula: Xn = (n × ln(Cedra)) mod 1
+def chaos_sequence(n):
+    return (n * ln_cedra) % 1
+
+# ORDER Formula: Yn = (n - ln(Cedra)) mod 1
+def order_sequence(n):
+    return (n - ln_cedra) % 1
+
+# Test the sequences
+print("\nCHAOS sequence (first 10 values):")
+for n in range(1, 11):
+    xn = chaos_sequence(n)
+    print(f"X{n} = {xn:.6f}")
+
+print(f"\nORDER sequence (constant value):")
+yn = order_sequence(1)
+print(f"Yn = {yn:.6f} (same for all n)")
+
+# Verify the duality
+print(f"\nDuality verification:")
+print(f"ln(Cedra) = {ln_cedra:.6f}")
+print(f"1 - ln(Cedra) = {1 - ln_cedra:.6f}")
+print(f"Sum = {ln_cedra + (1 - ln_cedra):.6f}")
+```
+
+<br/>
+<br/>
 
 | Expression | Description |
 |-----------|-------------|
@@ -120,5 +159,5 @@ This suggests that discrete time might be fundamental to reality's structure, wh
 <br/>
 <br/>
 
-*The Cedra Constant License (CC BY-NC 4.0)
-Copyright (c) 2025 Olivier Cedrati*
+*Licensed under Creative Commons Attribution-NonCommercial 4.0 International License*  
+*Copyright (c) 2025 Olivier Cedrati*
