@@ -1,6 +1,11 @@
 # Cedra
 
-*A Geometric Constant Encoding Discrete Time and Structured Chaos*  
+*A Geometric Constant Encoding Discrete Time and Structured Chaos.*
+
+<br/>
+
+Cedra is a newly defined irrational constant capturing the interplay between geometry, time, and structured randomness. 
+It encodes a timeless symmetry rooted in physical and mathematical principles.
 <br/>
 <br/>
 $\text{Cedra} = \sqrt{3} + \sqrt{2} + \sqrt{\frac{1}{2}} - 2$
