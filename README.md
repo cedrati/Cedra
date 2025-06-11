@@ -1,16 +1,25 @@
 # Cedra
 
-*Cedra: A Geometric Constant Encoding Discrete Time and Structured Chaos*
-
+*A Geometric Constant Encoding Discrete Time and Structured Chaos*  
+<br/>
+<br/>
 $\text{Cedra} = \sqrt{3} + \sqrt{2} + \sqrt{\frac{1}{2}} - 2$
+<br/>
+<br/>
 
----
+>Cedra enables ultra-efficient quasi-Monte Carlo sampling with perfect uniform distribution, discrete time quantum simulations for 3+1D spacetime modeling, and high-quality pseudorandom number generation for cryptographic applications.
+
+
+<br/>
+
 
 ## 📐 Definition
 
 *Cedra = √3 + √2 + √(1/2) - 2 ≈ 1.853371151128520*
 
 The Cedra constant is defined as the sum of dimensional signatures representing the geometric structure of spacetime. This mathematical expression encodes fundamental properties that manifest across diverse scientific domains, from quantum mechanics to computational geometry.
+
+<br/>
 
 ## 🌌 Physical Interpretation
 
@@ -37,7 +46,7 @@ $f_{\text{Planck}} \approx \text{Cedra} \times 10^{43} \text{ Hz} \quad \text{(9
 
 This correspondence suggests deep connections to quantum gravity and the fundamental frequency of spacetime itself.
 
----
+<br/>
 
 ## ⚡ Mathematical Properties
 
@@ -63,7 +72,7 @@ This form reveals harmonic properties:
 - Quasi-periodic behavior with period 47
 - $\ln(\text{Cedra}) \times 47 \approx 29$ (fundamental cycle relationship)
 
----
+<br/>
 
 ## ⚖️ Chaos and Harmony
 
@@ -75,7 +84,6 @@ The Cedra constant bridges the apparent contradiction between randomness and str
 
 This duality makes it valuable for studying complex systems where deterministic rules produce seemingly random but fundamentally ordered behavior.
 
----
 
 **Discrete Time and Chaos Organization**
 The Cedra formulas reveal a profound connection between discrete time and chaos organization. Just as time itself organizes seemingly random events into coherent sequences, Cedra's dual formulas demonstrate how chaos can be structured:
@@ -94,7 +102,7 @@ This mirrors quantum mechanics where discrete time evolution (Schrödinger equat
 **Implications for Physics:**
 This suggests that discrete time might be fundamental to reality's structure, where each temporal quantum organizes chaos according to geometric principles encoded in constants like Cedra. The dual nature of chaos/order emerges naturally from temporal discretization itself.
 
-
+<br/>
 
 
 | Expression | Description |
@@ -104,7 +112,8 @@ This suggests that discrete time might be fundamental to reality's structure, wh
 | `Yₙ = (n − ln(Cedra)) mod 1` | ORDER sequence |
 
 
----
+<br/>
+<br/>
 
 *The Cedra Constant License (CC BY-NC 4.0)
 Copyright (c) 2025 Olivier Cedrati*
