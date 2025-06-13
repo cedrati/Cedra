@@ -21,6 +21,9 @@ $\text{Cedra} = \sqrt{3} + \sqrt{2} + \sqrt{\frac{1}{2}} - 2$
 
 *Cedra = √3 + √2 + √(1/2) - 2 ≈ 1.853371151128520*
 
+Cedra is an algebraic number of degree 4 (biquadratic) over ℚ. Its minimal polynomial is:
+P(x) = 4x⁴ + 32x³ + 36x² - 112x - 167
+
 The Cedra constant combines dimensional root terms in a geometric expression that exhibits unexpected mathematical relationships across multiple domains.
 
 <br/>
