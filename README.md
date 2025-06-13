@@ -176,8 +176,3 @@ print(f"Perfect match: {abs(cedra * delta - golden_ratio) < 1e-15}")
 | `Yₙ = (n − ln(Cedra)) mod 1` | ORDER sequence |
 
 
-<br/>
-<br/>
-
-*Licensed under Creative Commons Attribution-NonCommercial 4.0 International License*  
-*Copyright (c) 2025 Olivier Cedrati*
