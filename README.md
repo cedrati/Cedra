@@ -1,6 +1,6 @@
 # Cedra
 
-*A Geometric Constant Linking Discrete Time, Rhythm, and Structured Chaos.*
+*A Geometric Constant Linking Discrete Time, Rhythm, and Structured Chaos. It's like a mathematical temporal quasi-crystal*
 
 <br/>
 
