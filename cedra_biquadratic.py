@@ -1,3 +1,14 @@
+"""
+Cedra Temporal Quasicrystal Generator
+Author: Olivier Cedrati
+Year: 2025
+Description: Cedra biquadratic solver.
+
+License: CC BY-NC 4.0
+Repository: https://github.com/cedrati/Cedra
+Paper: "Cedra: A Mathematical Constant for Temporal Quasicrystal Generation" (2025)
+"""
+
 import math
 
 class CedraSolver:
