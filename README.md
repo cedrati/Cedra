@@ -152,6 +152,8 @@ $f_{\text{Planck}} \approx \text{Cedra} \times 10^{43} \text{ Hz} \quad \text{(9
 
 <br/>
 
+## 🚀 Quick Start
+
 ```python
 import math
 import statistics
@@ -345,10 +347,6 @@ print(f"\nCedra outperforms Math.random() in uniformity by {33.48/chi_sq:.1f}x")
 - **High-Dimensional Monte Carlo**: Strong dimensional correlations
 - **General-Purpose Randomness**: Specialized tool, not universal PRNG
 - **Security-Critical Systems**: Deterministic and predictable nature
-
-<br/>
-
-## 🚀 Quick Start
 
 <br/>
 
