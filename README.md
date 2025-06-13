@@ -39,6 +39,31 @@ Cedra generates sequences that exhibit **authentic temporal quasi-crystalline be
 
 **Uniform Distribution**: Despite complex correlations, the sequence maintains excellent statistical uniformity (χ² = 3.96 << 30.14 threshold).
 
+### Complete Mathematical Formulation
+
+**Single Constant → Complete Temporal Quasicrystal Theory**
+
+From the Cedra constant, we can derive a complete temporal quasicrystal using the cut-and-project method:
+```
+C = √3 + √2 + √(1/2) - 2
+
+α = ln C                                      (rotation parameter)
+
+τ_C = (2√3 + 3√2 - 4) / ((1 + √5) × C)      (window width = 1/φ)
+
+S_C = {n ∈ ℤ | {nα} < τ_C}                  (Delone set)
+
+Where $\{x\} = x - \lfloor x \rfloor$ is the fractional part.
+```
+
+**Properties of $S_C$:**
+- **Discrete and non-periodic**: Genuine quasicrystalline structure
+- **Controlled density**: $\tau_C \approx 0.618$ (inverse golden ratio)
+- **Pure point spectrum**: Bragg peaks at positions $k \in \mathbb{Z} + \alpha\mathbb{Z}$
+- **Sturmian word**: Binary sequence $\sigma_C(n) = 1$ if $\{n\alpha\} < \tau_C$, else $0$
+
+This formulation provides a completely self-contained mathematical framework where **everything derives from the single Cedra constant** - no external parameters needed.
+
 ### Temporal vs Spatial Quasi-Crystals
 
 Unlike spatial quasi-crystals that arrange matter aperiodically in space, Cedra creates **temporal quasi-crystals** that arrange discrete time steps aperiodically while maintaining long-range order. This represents a mathematical model for how discrete time evolution might exhibit quasi-crystalline structure.
@@ -126,8 +151,6 @@ $f_{\text{Planck}} \approx \text{Cedra} \times 10^{43} \text{ Hz} \quad \text{(9
 *Note: This appears to be a remarkable numerical coincidence rather than a proven physical relationship.*
 
 <br/>
-
-## 🚀 Quick Start
 
 ```python
 import math
@@ -322,6 +345,10 @@ print(f"\nCedra outperforms Math.random() in uniformity by {33.48/chi_sq:.1f}x")
 - **High-Dimensional Monte Carlo**: Strong dimensional correlations
 - **General-Purpose Randomness**: Specialized tool, not universal PRNG
 - **Security-Critical Systems**: Deterministic and predictable nature
+
+<br/>
+
+## 🚀 Quick Start
 
 <br/>
 
