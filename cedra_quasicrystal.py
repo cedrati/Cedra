@@ -1,3 +1,35 @@
+"""
+Cedra Temporal Quasicrystal Generator
+Author: Olivier Cedrati
+Year: 2025
+Description: Complete implementation of temporal quasicrystal generation using the Cedra constant.
+            Demonstrates cut-and-project method, Delone set construction, and Sturmian word
+            generation for authentic 1D temporal quasicrystalline structures.
+            
+Mathematical Framework:
+- C = √3 + √2 + √(1/2) - 2 ≈ 1.853371151128520 (Cedra constant)
+- α = ln C (rotation parameter)
+- τ_C = (2√3 + 3√2 - 4) / ((1 + √5) × C) ≈ 1/φ (window width)
+- S_C = {n ∈ ℤ | {nα} < τ_C} (Delone set - temporal quasicrystal)
+
+Key Features:
+- Aperiodic temporal structure with long-range correlations
+- Pure point diffraction spectrum with Bragg peaks
+- Controlled density convergence to inverse golden ratio
+- Self-contained mathematical framework derived from single constant
+- Applications in discrete time modeling, quantum simulations, and mathematical research
+
+Properties Verified:
+- Genuine quasicrystalline behavior (non-periodic but ordered)
+- Sturmian word generation with minimal complexity
+- Statistical convergence to theoretical density τ_C ≈ 0.618
+- Cut-and-project method implementation
+
+License: CC BY-NC 4.0
+Repository: https://github.com/cedrati/Cedra
+Paper: "Cedra: A Mathematical Constant for Temporal Quasicrystal Generation" (2025)
+"""
+
 import math
 
 # Cedra constant and parameters
